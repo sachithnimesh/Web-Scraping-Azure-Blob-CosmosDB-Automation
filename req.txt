@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pandas
+openpyxl
+azure-storage-blob
+azure-cosmos
+python-dotenv
